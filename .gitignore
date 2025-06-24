@@ -1,1 +1,4 @@
-.venv
+vectordb
+codebase
+__pycache__
+upload.zip

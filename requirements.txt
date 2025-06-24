@@ -1,4 +1,8 @@
+fastapi
+uvicorn
 transformers
 torch
 faiss-cpu
+tqdm
 numpy
+python-multipart
