@@ -3,7 +3,7 @@ import requests
 import tempfile
 import json
 
-API_URL = "http://127.0.0.1:8000"  # Use localhost for local dev
+API_URL = "https://fictional-space-potato-pv756rxwg56frg4x-8000.app.github.dev"  # Use localhost for local dev
 
 st.set_page_config(page_title="Code Embed App", layout="centered")
 st.title("🧠 Codebase Semantic Search")
